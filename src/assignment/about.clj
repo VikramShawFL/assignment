@@ -18,7 +18,7 @@
 
 (def page (GET "/" req 
 		  	(con/contact req
-		  		[:h1 "Welcome to the about page"]
+		  		[:h1 "Welcome to the about page of the assignent project"]
 		  	)
 		  )
 )
